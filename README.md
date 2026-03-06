@@ -6,3 +6,11 @@
 
 
 <img width="1107" height="635" alt="Снимок экрана 2026-03-03 132333" src="https://github.com/user-attachments/assets/a8b18362-99a1-4777-bfc6-6cc41d2e396c" />
+
+
+
+# ОБНОВЛЕНИЕ
+было добавленно тестирование метода CheckerBoardPosition
+
+
+<img width="1914" height="1010" alt="Снимок экрана 2026-03-06 175404" src="https://github.com/user-attachments/assets/e30ea412-f1fd-442a-bfcf-fede3ae9f48f" />
